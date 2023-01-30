@@ -1,0 +1,9 @@
+{
+	"name": "SANADF2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "04ade8ae-8291-4fac-9bf5-b93558e1cbc9",
+		"tenantId": "e0ebace9-62e7-4f4e-8eff-babf29148507"
+	}
+}
